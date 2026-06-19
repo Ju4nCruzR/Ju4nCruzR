@@ -13,9 +13,9 @@
 Estudiante de Ingeniería de Sistemas apasionado por construir backends robustos, arquitecturas escalables y sistemas que realmente funcionan.
 Basado en **Bogotá, Colombia 🇨🇴**, estudiando en la **Pontificia Universidad Javeriana**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FDBE02?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/juan-sebastián-cruz-rojas-52b319306)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebasti%C3%A1n-cruz-rojas-52b319306)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FDBE02)](https://github.com/Ju4nCruzR)
-[![Email](https://img.shields.io/badge/Gmail-FDBE02?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:juan.cruzr1709@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.cruzr1709@gmail.com)
 
 </div>
 
@@ -39,39 +39,39 @@ const juan = {
 ## 🛠️ Tech Stack
 
 ### 🔷 Lenguajes
-![C](https://img.shields.io/badge/C-FDBE02?style=for-the-badge&logo=c&logoColor=000000)
-![C++](https://img.shields.io/badge/C++-FDBE02?style=for-the-badge&logo=cplusplus&logoColor=000000)
-![Java](https://img.shields.io/badge/Java-FDBE02?style=for-the-badge&logo=openjdk&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-FDBE02?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-FDBE02?style=for-the-badge&logo=typescript&logoColor=000000)
-![Kotlin](https://img.shields.io/badge/Kotlin-FDBE02?style=for-the-badge&logo=kotlin&logoColor=000000)
-![Dart](https://img.shields.io/badge/Dart-FDBE02?style=for-the-badge&logo=dart&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-FDBE02?style=for-the-badge&logo=python&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-FDBE02?style=for-the-badge&logo=html5&logoColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-FDBE02?style=for-the-badge&logo=css3&logoColor=000000)
-![Jupyter](https://img.shields.io/badge/Jupyter-FDBE02?style=for-the-badge&logo=jupyter&logoColor=000000)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### ⚙️ Frameworks & Runtimes
-![Spring](https://img.shields.io/badge/Spring-FDBE02?style=for-the-badge&logo=spring&logoColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-FDBE02?style=for-the-badge&logo=nextdotjs&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-FDBE02?style=for-the-badge&logo=nodedotjs&logoColor=000000)
-![Angular](https://img.shields.io/badge/Angular-FDBE02?style=for-the-badge&logo=angular&logoColor=000000)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-FDBE02?style=for-the-badge&logo=mysql&logoColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FDBE02?style=for-the-badge&logo=postgresql&logoColor=000000)
-![SQL](https://img.shields.io/badge/SQL-FDBE02?style=for-the-badge&logo=databricks&logoColor=000000)
-![DBeaver](https://img.shields.io/badge/DBeaver-FDBE02?style=for-the-badge&logo=dbeaver&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 ### 🔐 Seguridad & Auth
-![JWT](https://img.shields.io/badge/JWT-FDBE02?style=for-the-badge&logo=jsonwebtokens&logoColor=000000)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🧰 Herramientas & DevOps
-![Docker](https://img.shields.io/badge/Docker-FDBE02?style=for-the-badge&logo=docker&logoColor=000000)
-![Podman](https://img.shields.io/badge/Podman-FDBE02?style=for-the-badge&logo=podman&logoColor=000000)
-![Jenkins](https://img.shields.io/badge/Jenkins-FDBE02?style=for-the-badge&logo=jenkins&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-FDBE02?style=for-the-badge&logo=git&logoColor=000000)
-![Postman](https://img.shields.io/badge/Postman-FDBE02?style=for-the-badge&logo=postman&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
