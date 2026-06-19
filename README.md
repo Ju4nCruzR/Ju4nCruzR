@@ -84,11 +84,11 @@ const juanSebastianCruz = {
 ### 🌴 e-Xiua — Plataforma de Turismo de Bienestar
 
 [![Org](https://img.shields.io/badge/Ver%20Organización-181717?style=for-the-badge&logo=github&logoColor=FDBE02)](https://github.com/e-Xiua)
-[![Repos](https://img.shields.io/badge/Repositorios-16-FDBE02?style=flat-square)](https://github.com/orgs/e-Xiua/repositories)
+[![Repos](https://img.shields.io/badge/Repositorios-19-FDBE02?style=flat-square)](https://github.com/orgs/e-Xiua/repositories)
 
 </div>
 
-> Trabajo de grado desarrollado como una arquitectura de microservicios completa para una plataforma de turismo de bienestar, organizada en **16 repositorios** dentro de la organización e-Xiua.
+> Trabajo de grado desarrollado como una arquitectura de microservicios completa para una plataforma de turismo de bienestar, organizada en **19 repositorios** dentro de la organización e-Xiua.
 
 **✅ Componentes destacados:**
 
