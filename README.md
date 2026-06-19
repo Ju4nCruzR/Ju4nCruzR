@@ -24,10 +24,10 @@ Basado en **Bogotá, Colombia 🇨🇴**, estudiando en la **Pontificia Universi
 ## 🧠 Sobre mí
 
 ```ts
-const juan = {
+const juanSebastianCruz = {
   role:       "Systems Engineer & Software Developer",
   university: "Pontificia Universidad Javeriana",
-  location:   "Bogotá, Colombia 🇨🇴",
+  location:   "Bogotá, Colombia",
   focus:      ["Backend Development", "REST APIs", "Microservices", "Data Engineering", "Cloud"],
   currentlyLearning: ["Cloud Architecture", "AWS (Cloud Practitioner / Solutions Architect)", "System Design"],
   lookingFor: "Oportunidades para crear impacto real con código de calidad",
