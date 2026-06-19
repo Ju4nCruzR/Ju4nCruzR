@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7a4a00,50:b87800,100:FDBE02&height=200&section=header&text=Juan%20Cruz&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7a4a00,50:b87800,100:FDBE02&height=200&section=header&text=Juan%20Sebasti%C3%A1n%20Cruz%20Rojas&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn)
 
 </div>
 
@@ -11,7 +11,7 @@
 ### 👋 Hey, soy Juan Sebastián Cruz Rojas
 
 Estudiante de Ingeniería de Sistemas apasionado por construir backends robustos, arquitecturas escalables y sistemas que realmente funcionan.
-Basado en **Bogotá, Colombia 🇨🇴**, estudiando en la **Pontificia Universidad Javeriana**.
+Basado en **Bogotá, Colombia**, estudiando en la **Pontificia Universidad Javeriana**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebasti%C3%A1n-cruz-rojas-52b319306)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FDBE02)](https://github.com/Ju4nCruzR)
