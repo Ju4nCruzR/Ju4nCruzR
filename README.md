@@ -11,7 +11,7 @@
 ### 👋 Hey, soy Juan Sebastián Cruz Rojas
 
 Estudiante de Ingeniería de Sistemas apasionado por construir backends robustos, arquitecturas escalables y sistemas que realmente funcionan.
-Basado en **Bogotá, Colombia**, estudiando en la **Pontificia Universidad Javeriana**.
+Basado en **Bogotá, Colombia**, estudiando y haciendo mis prácticas profesionales en la **Pontificia Universidad Javeriana**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebasti%C3%A1n-cruz-rojas-52b319306)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FDBE02)](https://github.com/Ju4nCruzR)
