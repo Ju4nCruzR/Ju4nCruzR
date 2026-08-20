@@ -47,6 +47,7 @@ const juanSebastianCruz = {
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -123,9 +124,9 @@ const juanSebastianCruz = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ju4nCruzR&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=FDBE02&icon_color=FDBE02&text_color=ffffff)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ju4nCruzR&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=FDBE02&icon_color=FDBE02&text_color=ffffff&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ju4nCruzR&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FDBE02&text_color=ffffff)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Ju4nCruzR&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FDBE02&text_color=ffffff&cache_seconds=86400)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ju4nCruzR&theme=dark&hide_border=true&background=0d1117&stroke=FDBE02&ring=FDBE02&fire=FDBE02&currStreakLabel=FDBE02)](https://github.com/Ju4nCruzR)
 
