@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7a4a00,50:b87800,100:FDBE02&height=200&section=header&text=Juan%20Sebasti%C3%A1n%20Cruz%20Rojas&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Backend%20%26%20Data&descAlignY=58&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7a4a00,50:b87800,100:FDBE02&height=200&section=header&text=Juan%20Sebasti%C3%A1n%20Cruz%20Rojas&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Data&descAlignY=58&descSize=18&animation=fadeIn)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebasti%C3%A1n-cruz-rojas-52b319306)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.cruzr1709@gmail.com)
