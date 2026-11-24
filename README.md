@@ -1,132 +1,129 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7a4a00,50:b87800,100:FDBE02&height=200&section=header&text=Juan%20Sebasti%C3%A1n%20Cruz%20Rojas&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn)
-
-</div>
-
----
-
-<div align="center">
-
-### 👋 Hey, soy Juan Sebastián Cruz Rojas
-
-Estudiante de Ingeniería de Sistemas apasionado por construir backends robustos, arquitecturas escalables y sistemas que realmente funcionan.
-Basado en **Bogotá, Colombia**, estudiando y haciendo mis prácticas profesionales en la **Pontificia Universidad Javeriana**.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7a4a00,50:b87800,100:FDBE02&height=200&section=header&text=Juan%20Sebasti%C3%A1n%20Cruz%20Rojas&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Backend%20%26%20Data&descAlignY=58&descSize=18&animation=fadeIn)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebasti%C3%A1n-cruz-rojas-52b319306)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FDBE02)](https://github.com/Ju4nCruzR)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.cruzr1709@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.cruzr1709@gmail.com)
+[![e-Xiua](https://img.shields.io/badge/e--Xiua-181717?style=for-the-badge&logo=github&logoColor=FDBE02)](https://github.com/e-Xiua)
 
 </div>
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
+
+Estudiante de último semestre de **Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana** (Bogotá, Colombia). Me enfoco en desarrollo backend, arquitecturas de microservicios e ingeniería de datos: construir sistemas mantenibles, bien documentados y que funcionen en producción.
+
+Actualmente hago mi práctica profesional en la **Dirección de Tecnologías de Información (DTI)** de la Javeriana, en el equipo de CRM, trabajando en calidad y gobierno de datos, automatización de procesos y reportería sobre **Salesforce** y **Marketing Cloud**.
 
 ```ts
-const juanSebastianCruz = {
-  role:       "Systems Engineer & Software Developer",
-  university: "Pontificia Universidad Javeriana",
-  location:   "Bogotá, Colombia",
-  focus:      ["Backend Development", "REST APIs", "Microservices", "Data Engineering", "Cloud"],
-  currentlyLearning: ["Cloud Architecture", "AWS (Cloud Practitioner / Solutions Architect)", "System Design"],
-  lookingFor: "Oportunidades para crear impacto real con código de calidad",
+const juan = {
+  role:     "Systems Engineer · Backend & Data",
+  location: "Bogotá, Colombia",
+  focus:    ["Backend Development", "REST APIs", "Microservices", "Data Engineering", "CRM / Salesforce"],
+  learning: ["Cloud Architecture", "AWS Solutions Architect", "System Design"],
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Experiencia
 
-### 🔷 Lenguajes
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Practicante — Data Management & CRM Optimization** · Pontificia Universidad Javeriana, DTI · *jul 2026 – presente*
 
-### ⚙️ Frameworks & Runtimes
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
-
-### 🔐 Seguridad & Auth
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🧰 Herramientas & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kong](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
+- Calidad y gobierno de datos en Salesforce: detección de duplicados y consolidación de registros de Contactos y Leads.
+- Automatización de análisis y pruebas con Python (notebooks y scripts) para procesos que antes se hacían manualmente.
+- Reportes, dashboards y documentación técnica para el equipo de CRM.
 
 ---
 
-## 🚀 Proyecto Destacado
+## Tech Stack
 
-<div align="center">
+**Lenguajes**
 
-### 🌴 e-Xiua — Plataforma de Turismo de Bienestar
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000000)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![Org](https://img.shields.io/badge/Ver%20Organización-181717?style=for-the-badge&logo=github&logoColor=FDBE02)](https://github.com/e-Xiua)
-[![Repos](https://img.shields.io/badge/Repositorios-19-FDBE02?style=flat-square)](https://github.com/orgs/e-Xiua/repositories)
+**Frameworks y runtimes**
 
-</div>
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-> Trabajo de grado desarrollado como una arquitectura de microservicios completa para una plataforma de turismo de bienestar, organizada en **19 repositorios** dentro de la organización e-Xiua.
+**Datos y CRM**
 
-**✅ Componentes destacados:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white)
 
-| Módulo | Descripción |
-|--------|-------------|
-| 👥 **Admin Users API** | Gestión de usuarios, contraseñas y roles |
-| 🧳 **Providers API** | CRUD y gestión de proveedores turísticos |
-| ❤️ **User Preferences API** | Formulario de preferencias y gustos de usuario |
-| 📊 **Data Services** | Microservicio de análisis de datos |
-| 🗺️ **Route Optimizer / Processing Service** | Optimización y procesamiento de rutas |
-| 📝 **Tasks API** | Planificación, asignación y monitoreo de tareas del clúster |
-| 🐇 **Queue-Rabbit** | Cola de mensajería para comunicación entre microservicios |
-| 🖥️ **FrontEnd** | Frontend del prototipo funcional |
-| 🗃️ **DB** | Persistencia en MySQL |
+**DevOps, mensajería y herramientas**
 
-**🧰 Stack:** `Java` · `Spring` · `Python` · `TypeScript` · `MySQL` · `RabbitMQ` · `Docker` · `Microservices`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kong](https://img.shields.io/badge/Kong-003459?style=flat-square&logo=kong&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📦 Otros Proyectos
+## Proyecto destacado: e-Xiua
+
+**Plataforma de turismo de bienestar basada en microservicios** · Trabajo de grado
+
+[![Organización](https://img.shields.io/badge/Ver%20organizaci%C3%B3n-181717?style=flat-square&logo=github&logoColor=FDBE02)](https://github.com/e-Xiua)
+[![Repositorios](https://img.shields.io/badge/Repositorios-19-FDBE02?style=flat-square)](https://github.com/orgs/e-Xiua/repositories)
+
+Arquitectura de microservicios completa para una plataforma de turismo de bienestar en La Fortuna, Costa Rica, organizada en 19 repositorios. Los servicios se comunican de forma asíncrona mediante RabbitMQ, se exponen a través de un API Gateway y se despliegan en contenedores.
+
+| Servicio | Responsabilidad |
+|----------|-----------------|
+| **Admin Users API** | Gestión de usuarios, credenciales y roles |
+| **Providers API** | Registro y gestión de proveedores turísticos |
+| **User Preferences API** | Captura de preferencias del usuario |
+| **Data Services** | Análisis de datos de la plataforma |
+| **Route Optimizer / Processing Service** | Optimización y procesamiento de rutas turísticas |
+| **Tasks API** | Planificación, asignación y monitoreo de tareas del clúster |
+| **Queue-Rabbit** | Mensajería asíncrona entre microservicios |
+| **FrontEnd** | Cliente web del prototipo funcional |
+| **DB** | Persistencia en MySQL |
+
+**Stack:** `Java` · `Spring` · `Python` · `TypeScript` · `MySQL` · `RabbitMQ` · `Docker`
+
+---
+
+## Otros proyectos
 
 | Proyecto | Descripción | Stack |
-|---------|-------------|-------|
-| [🦸 MarvelBabyNames](https://github.com/Ju4nCruzR/ProyectoFinal_MarvelBabyNames) | Proyecto final que cruza nombres de bebés con personajes Marvel | Python |
-| [📊 Data Warehouse & Dashboards](https://github.com/Ju4nCruzR/Lab5_DWDashboards) | Laboratorio de Data Warehouse y dashboards analíticos | SQL / Python |
-| [🤖 Machine Learning](https://github.com/Ju4nCruzR/ProyectoFinal_MachineLearning-) | Proyecto final aplicando modelos de Machine Learning | Python / Jupyter Notebook |
-| [⚔️ Caravana Medieval](https://github.com/Ju4nCruzR/ProyectoDS_Caravana) | Juego web de desarrollo de software | Java |
+|----------|-------------|-------|
+| [Data Warehouse & Dashboards](https://github.com/Ju4nCruzR/Lab5_DWDashboards) | Modelado de un data warehouse y construcción de dashboards analíticos | SQL · Python |
+| [Machine Learning](https://github.com/Ju4nCruzR/ProyectoFinal_MachineLearning-) | Entrenamiento y evaluación de modelos de Machine Learning | Python · Jupyter |
+| [Caravana Medieval](https://github.com/Ju4nCruzR/ProyectoDS_Caravana) | Juego web desarrollado aplicando principios de ingeniería de software | Java |
+| [MarvelBabyNames](https://github.com/Ju4nCruzR/ProyectoFinal_MarvelBabyNames) | Análisis de datos que cruza registros de nombres de bebés con personajes de Marvel | Python |
 
 ---
 
-## 📊 GitHub Stats
+## Estadísticas
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ju4nCruzR&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=FDBE02&icon_color=FDBE02&text_color=ffffff&cache_seconds=86400)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Ju4nCruzR&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FDBE02&text_color=ffffff&cache_seconds=86400)
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Ju4nCruzR&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FDBE02&icon_color=FDBE02&text_color=ffffff&cache_seconds=21600" alt="GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ju4nCruzR&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=FDBE02&text_color=ffffff&cache_seconds=21600" alt="Top Languages" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ju4nCruzR&theme=dark&hide_border=true&background=0d1117&stroke=FDBE02&ring=FDBE02&fire=FDBE02&currStreakLabel=FDBE02)](https://github.com/Ju4nCruzR)
 
@@ -134,19 +131,7 @@ const juanSebastianCruz = {
 
 ---
 
-## 🎯 Actualmente
-
-- 🎓 Estudiando **Ingeniería de Sistemas** en la Universidad Javeriana
-- 💼 Realizando mi práctica profesional en la **Dirección de Tecnologías de Información (DTI)**, equipo CRM
-- 🔭 Trabajando en proyectos de **backend, microservicios y data**
-- 📚 Avanzando en certificaciones de **AWS Cloud**
-- 📬 Contáctame en: **juan.cruzr1709@gmail.com**
-
----
-
 <div align="center">
-
-*"Clean code is the best documentation."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FDBE02,50:b87800,100:7a4a00&height=100&section=footer)
 
